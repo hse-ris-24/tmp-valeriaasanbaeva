@@ -1,0 +1,14 @@
+D:\Laba9\Laba_9\bin\Debug\net7.0\Laba_9.exe
+D:\Laba9\Laba_9\bin\Debug\net7.0\Laba_9.deps.json
+D:\Laba9\Laba_9\bin\Debug\net7.0\Laba_9.runtimeconfig.json
+D:\Laba9\Laba_9\bin\Debug\net7.0\Laba_9.dll
+D:\Laba9\Laba_9\bin\Debug\net7.0\Laba_9.pdb
+D:\Laba9\Laba_9\obj\Debug\net7.0\Laba_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laba9\Laba_9\obj\Debug\net7.0\Laba_9.AssemblyInfoInputs.cache
+D:\Laba9\Laba_9\obj\Debug\net7.0\Laba_9.AssemblyInfo.cs
+D:\Laba9\Laba_9\obj\Debug\net7.0\Laba_9.csproj.CoreCompileInputs.cache
+D:\Laba9\Laba_9\obj\Debug\net7.0\Laba_9.dll
+D:\Laba9\Laba_9\obj\Debug\net7.0\refint\Laba_9.dll
+D:\Laba9\Laba_9\obj\Debug\net7.0\Laba_9.pdb
+D:\Laba9\Laba_9\obj\Debug\net7.0\Laba_9.genruntimeconfig.cache
+D:\Laba9\Laba_9\obj\Debug\net7.0\ref\Laba_9.dll
